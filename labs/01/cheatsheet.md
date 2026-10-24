@@ -432,4 +432,8 @@ graph TD;
 
 ## Pitfalls
 
-will be added once i run into them, this cheatsheet is a work in progress after all
+* Not remembering spacing to create new lines instead of new paragraphs
+
+* using `'''` instead of ```` ``` ```` to denote code
+
+* for pitfalls to follow as i run into them
