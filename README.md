@@ -6,5 +6,6 @@ The module repository can be found [📖here](https://github.com/breuert/data-in
 Quick access to each week's lab (future weeks will be added as the module progresses)
 
 Lab | Link
+--- | --- 
 01 | [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/01)
 02 | [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/02)
