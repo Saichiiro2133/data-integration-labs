@@ -7,5 +7,5 @@ Quick access to each week's lab (future weeks will be added as the module progre
 
 Lab | Link
 --- | --- 
-01 | [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/01)
-02 | [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/02)
+Lab 1 · Open Source Software and Open Data| [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/01)
+Lab 2 · Command Line Interface| [Link](https://github.com/Saichiiro2133/data-integration-labs/tree/main/labs/02)
