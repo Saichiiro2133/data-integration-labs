@@ -36,8 +36,8 @@ my ``` git ``` version is git version 2.56.0.windows.4
 
 # How full is my harddrive and how big is my downloads folder
 
-``` df -h ``` tells me that my Hardrive is 930GB big and that it currently 68% full
-``` du -sh ~\Downloads ``` tells me that my Download Folder is currently occupying 115GB of my Harddrive,
+``` df -h ``` tells me that my Hardrive is 930GB big and that it currently 68% full.  
+``` du -sh ~\Downloads ``` tells me that my Download Folder is currently occupying 115GB of my Harddrive.
 
 # Stop a runaway process
 
