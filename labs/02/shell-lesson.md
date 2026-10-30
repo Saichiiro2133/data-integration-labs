@@ -29,10 +29,10 @@ it returns:
 ```` s\bin ``` 
 ```` v1.0 ``` -> SSH protocol apparently does not exist
 
-my ``` curl ``` is located at "C:\Program Files\Git\ucrt64\bin\curl.exe"  
-my ``` python3 ``` is locatied at "C:\Users\USER\AppData\Local\Microsoft\WindowsApps\python3.exe"  
-my ``` git ``` is located at "C:\Program Files\Git\ucrt64\bin\git.exe"  
-my ``` git ``` version is git version 2.56.0.windows.4
+``` curl ``` is located at "C:\Program Files\Git\ucrt64\bin\curl.exe"  
+``` python3 ``` is locatied at "C:\Users\USER\AppData\Local\Microsoft\WindowsApps\python3.exe"  
+``` git ``` is located at "C:\Program Files\Git\ucrt64\bin\git.exe"  
+``` git ``` version is git version 2.56.0.windows.4
 
 # How full is my harddrive and how big is my downloads folder
 
